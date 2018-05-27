@@ -214,3 +214,5 @@ project.lock.json
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
+/DesktopApp2/bin
+/DesktopApp2/obj/Debug
