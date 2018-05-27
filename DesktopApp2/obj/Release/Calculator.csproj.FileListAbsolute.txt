@@ -7,3 +7,4 @@ C:\Users\PC\source\repos\DesktopApp2\DesktopApp2\obj\Release\Calculator.csproj.G
 C:\Users\PC\source\repos\DesktopApp2\DesktopApp2\obj\Release\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\DesktopApp2\DesktopApp2\obj\Release\Calculation.exe
 C:\Users\PC\source\repos\DesktopApp2\DesktopApp2\obj\Release\Calculation.pdb
+C:\Users\PC\source\repos\DesktopApp2\DesktopApp2\obj\Release\Calculator.csprojAssemblyReference.cache
